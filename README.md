@@ -1,4 +1,20 @@
-### Hi there 👋
+# Hi, who is read this. 
+I just a simple first year student who wants to become a good programmer. 
+
+## What do I know/learning?
+**Programming languages**: C#, Python, JS
+
+**Framework**: Django
+
+## What software do I use?
+|Type|Name|
+|----------|----------|
+|OS/Distro|Arch Linux|
+|Code editor|VS Code|
+|Notes editor|Obsidian|
+
+
+
 
 <!--
 **derik-code/derik-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
