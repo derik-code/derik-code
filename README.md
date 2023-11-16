@@ -1,17 +1,17 @@
 # Hi, who is read this. 
 I just a simple first year student who wants to become a good programmer. 
 
-## What do I know/learning?
+## What I know/learn?
 **Programming languages**: C#, Python, JS
 
 **Framework**: Django
 
-## What software do I use?
+## What software I use?
 |Type|Name|
 |----------|----------|
 |OS/Distro|Arch Linux|
 |Code editor|VS Code|
-|Notes editor|Obsidian|
+|Note-taking|Obsidian|
 
 
 
