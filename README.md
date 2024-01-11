@@ -4,7 +4,7 @@ I just a simple first year student who wants to become a good programmer.
 ## What I know/learn?
 **Programming languages**: C#, Python, JS
 
-**Framework**: Django
+**Framework**: Deno
 
 ## What software I use?
 |Type|Name|
