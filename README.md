@@ -1,17 +1,13 @@
 # Hi, who is read this. 
-I just a simple first year student who wants to become a good programmer. 
+I am a first-year student who wants to become a good programmer.
 
 ## What I know/learn?
 **Programming languages**: C#, Python, JS
 
-**Framework**: Deno
+**Framework**: Django
 
-## What software I use?
-|Type|Name|
-|----------|----------|
-|OS/Distro|Arch Linux|
-|Code editor|VS Code|
-|Note-taking|Obsidian|
+## Also...
+Check my [Linux Rising](https://github.com/derik-code/dotfiles)
 
 
 
