@@ -1,16 +1,13 @@
 # Hi, who is read this. 
-I am a first-year student who wants to become a good programmer.
+I am a second-year student who wants to become a good programmer.
 
 ## What I know/learn?
-**Programming languages**: C#, Python, JS
+**Programming languages**: Java, Python, C#
 
-**Framework**: Django
+**Framework**: Spring, Django 
 
 ## Also...
 Check my [Linux Rising](https://github.com/derik-code/dotfiles)
-
-
-
 
 <!--
 **derik-code/derik-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
