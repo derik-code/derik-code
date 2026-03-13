@@ -1,25 +1,13 @@
-# Hi, who is read this. 
-I am a second-year student who wants to become a good programmer.
+# Hi, I'm Dinar!
+I am a third-year Computer Science student interested in backend development and building reliable software.
 
-## What I know/learn?
-**Programming languages**: Java, Python, C#
-
-**Framework**: Spring, Django 
+## Tech Stack:
+- **Backned**: Java Core, Spring Framefork
+- **Tetsing**: JUnit, Mockito
+- **Database**: PostgreSQL, MySQL
+- **DevOps**: Linux, Docker
+- **Tools**: Gradle, Git, Insomnia
+- **Other language:** Python, C/C++, JavaScript
 
 ## Also...
-Check my [Linux Rising](https://github.com/derik-code/dotfiles)
-
-<!--
-**derik-code/derik-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love listening to music and playing open-world sandbox games.
